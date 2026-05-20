@@ -26,3 +26,4 @@ print(int(num1) * int(num2)) # multiplicação
 print(int(num1) / int(num2)) # divisão
 print(int(num1) ** int(num2)) # potência
 print(int(num1) % int(num2)) # resto da divisão
+print(int(num1) // int(num2)) # divisão inteira
